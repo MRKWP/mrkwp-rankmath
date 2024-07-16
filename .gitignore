@@ -1,0 +1,6 @@
+/node_modules
+/vendor/
+/lib/
+.DS_Store
+
+mrkwp-rankmath.zip

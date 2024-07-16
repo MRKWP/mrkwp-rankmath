@@ -1,0 +1,19 @@
+{
+    "$schema": "https://json.schemastore.org/block.json",
+    "apiVersion": 2,
+    "name": "mrkwp/rankmath-breadcrumb",
+    "version": "1.0.0",
+    "title": "Rankmath Breadcrumb",
+    "category": "widgets",
+    "icon": "saved",
+    "description": "Rankmath Breadcrumb.",
+    "supports": {
+      "html": false
+    },
+    "attributes": {
+    },
+    "textdomain": "mrkwp-rankmath",
+    "editorScript": "file:./index.js",
+    "editorStyle": "file:./index.css",
+    "style": "file:./style-index.css"
+  }
